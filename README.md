@@ -39,7 +39,7 @@ Tracks enterprise operating system migration progress and upgrade adoption trend
 
 ### Endpoint Security Version Compliance
 
-![Endpoint Security Version Compliance](screenshots/endpoint-security-version-compliance.png)
+![Endpoint Security Version Compliance](https://github.com/derrickasmall-svg/endpoint-compliance-dashboard-case-study/blob/main/screenshots/2725AFFD-16E3-4F98-9B6E-5689F45FCDBE.png)
 
 Displays endpoint security agent version compliance over time.
 
