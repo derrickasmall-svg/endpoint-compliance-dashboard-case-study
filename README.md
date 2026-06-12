@@ -33,7 +33,7 @@ Source code, organization-specific details, API tokens, tenant URLs, report IDs,
 
 ### Windows 11 Upgrade Status
 
-![Windows 11 Upgrade Dashboard](screenshots/windows11-upgrade-dashboard.png)
+![Windows 11 Upgrade Dashboard](https://github.com/derrickasmall-svg/endpoint-compliance-dashboard-case-study/blob/main/screenshots/5C4B4439-F71C-4370-A155-9B70A71FA547.png)
 
 Tracks enterprise operating system migration progress and upgrade adoption trends.
 
