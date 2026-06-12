@@ -63,7 +63,7 @@ Tracks endpoint management client deployment and compliance coverage.
 
 ### USB Device Control Dashboard
 
-![USB Device Control Dashboard](screenshots/usb-device-control-dashboard.png)
+![USB Device Control Dashboard](https://github.com/derrickasmall-svg/endpoint-compliance-dashboard-case-study/blob/main/screenshots/3312C237-2DA7-4190-886C-394CF9BFF865.png)
 
 Reports USB policy enforcement, blocked devices, approved exceptions, and policy coverage.
 
