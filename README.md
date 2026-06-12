@@ -57,7 +57,7 @@ Shows VPN client version compliance and endpoint coverage trends.
 
 ### Endpoint Management Agent Compliance
 
-![Endpoint Agent Compliance](screenshots/endpoint-agent-compliance.png)
+![Endpoint Agent Compliance](https://github.com/derrickasmall-svg/endpoint-compliance-dashboard-case-study/blob/main/screenshots/809C082F-0DF6-4C60-B919-4D018024FD3C.png)
 
 Tracks endpoint management client deployment and compliance coverage.
 
