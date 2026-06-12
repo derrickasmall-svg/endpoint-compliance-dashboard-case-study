@@ -45,7 +45,7 @@ Displays endpoint security agent version compliance over time.
 
 ### Endpoint Security Service Compliance
 
-![Endpoint Security Service Compliance](screenshots/endpoint-security-service-compliance.png)
+![Endpoint Security Service Compliance](https://github.com/derrickasmall-svg/endpoint-compliance-dashboard-case-study/blob/main/screenshots/4056F0E9-70C0-417C-9DAA-5368F22E60C5.png)
 
 Tracks endpoint security service health and compliance.
 
