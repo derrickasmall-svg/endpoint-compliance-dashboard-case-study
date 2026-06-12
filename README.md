@@ -51,7 +51,7 @@ Tracks endpoint security service health and compliance.
 
 ### VPN Client Compliance
 
-![VPN Client Compliance](screenshots/vpn-client-compliance-dashboard.png)
+![VPN Client Compliance](https://github.com/derrickasmall-svg/endpoint-compliance-dashboard-case-study/blob/main/screenshots/7D76EE34-56E6-4C0E-A566-55C46FE57B80.png)
 
 Shows VPN client version compliance and endpoint coverage trends.
 
